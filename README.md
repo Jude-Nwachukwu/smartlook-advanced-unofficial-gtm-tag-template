@@ -2,7 +2,7 @@
 
 This custom tag template for **Google Tag Manager (GTM)** allows you to implement **advanced Smartlook tracking** features without manually writing custom JavaScript code.
 
-> Developed by **Jude** for [DumbData](https://dumbdata.co)  
+> Developed by **Jude Nwachukwu Onyejekwe** for [DumbData](https://dumbdata.co)  
 > Licensed under the **Apache 2.0 License**
 
 ---
